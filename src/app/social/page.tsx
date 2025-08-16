@@ -12,7 +12,6 @@ import {
   Send,
   Clock,
   TrendingUp,
-  Users,
   Heart,
   MessageCircle,
   Share,

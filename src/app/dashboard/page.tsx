@@ -10,7 +10,6 @@ import {
   Instagram, 
   BarChart3, 
   Users, 
-  Plus, 
   Settings,
   LogOut,
   Menu,
